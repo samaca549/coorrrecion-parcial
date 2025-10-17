@@ -24,3 +24,5 @@ Se agregó el uso de un archivo .env para manejar de manera segura las credencia
 
 Se mejoró la legibilidad, la validación de entradas y los mensajes de error para facilitar la experiencia del usuario.
 
+<img width="1289" height="420" alt="{334EC44B-3B50-45F9-A82E-D361BF03540A}" src="https://github.com/user-attachments/assets/d45277f2-53e4-49b8-a33d-53f62a7ec781" />
+
