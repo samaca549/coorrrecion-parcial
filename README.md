@@ -1,6 +1,7 @@
-<img width="1458" height="864" alt="{E7F3319E-502C-47E7-91E7-AF221B7236C0}" src="https://github.com/user-attachments/assets/0fd83ed7-f00a-476d-abf3-eaeb0a77d0e9" />
-SE DEFINE LA CLASE PERRO 
-A LA CLASE PERRO SE LES ASIGNA ATRIBUTOS EDAD, COLOR, NOMBRE 
-SE DEFINE UNA FUNCION PARA PEDIR LOS DATOS Y SE AGREGA EL RETURN PARA PODER USAR LOS DATOS DESPUES 
-DEFINO UNA FUNCION PARA COMPROBAR LA RESPUESTA DEL USUARIO REALIZO METODOS (ACCIONES DENTRO DE LAS CLASES) PARA ACARICIAR ALIMENTAR EL PERRO Y MOSTRAR DATOS
-
+<img width="439" height="617" alt="{961492B1-49D9-4D9C-9166-597F9F0E8BC9}" src="https://github.com/user-attachments/assets/64d21d02-4e38-4608-89b2-ef02d199674a" />
+Este código representa una biblioteca sencilla donde cada persona puede tener su propio espacio con categorías de libros. Al iniciar, se asigna un titular  y se crean algunas categorías básicas como Comedia e Historia. Luego, el programa permite cambiar el nombre del titular, agregar nuevos libros, crear categorías nuevas y guardar toda la información en forma de diccionario. Esto facilita que los datos puedan almacenarse o recuperarse fácilmente desde una base de datos, como Firebase. En resumen, el código organiza y gestiona una pequeña biblioteca personal de manera práctica y clara.
+CORRECCIONES
+El código original presentaba varios problemas de estructura y repetición. Se mezclaban demasiadas tareas dentro de una sola clase, lo que dificultaba su lectura y mantenimiento. Además, el manejo de categorías y libros era poco eficiente, ya que se usaban muchas listas separadas en lugar de estructuras más organizadas. También había errores de validación al pedir datos por consola y faltaba una forma clara de guardar o recuperar la información. Las versiones corregidas solucionaron esto dividiendo las responsabilidades: se creó una clase Biblioteca más ordenada, que maneja categorías y libros de forma dinámica, y se agregaron conexiones con Firebase para guardar los datos en línea. En general, la corrección hizo el código más limpio, reutilizable y fácil de entender.
+<img width="1519" height="494" alt="{09015530-7A3B-4306-A943-E21A48D10EC2}" src="https://github.com/user-attachments/assets/d394208d-258e-44fa-9f0c-462ec49c1ed1" />
+SE GUARDAN LOS LIBROS INGRESADOS Y SE GUARDAN EN FIRE BASE
+<img width="1417" height="564" alt="{665B8C47-1C2C-43B3-86F2-03DDC8BE258A}" src="https://github.com/user-attachments/assets/243d486e-13e8-4b46-a601-720443c1f202" />
